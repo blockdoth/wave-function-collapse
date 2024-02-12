@@ -1,0 +1,9 @@
+/usr/local/lib/libraylib.so.5.0.0
+/usr/local/lib/libraylib.so.500
+/usr/local/lib/libraylib.so
+/usr/local/include/raylib.h
+/usr/local/include/rlgl.h
+/usr/local/include/raymath.h
+/usr/local/lib/pkgconfig/raylib.pc
+/usr/local/lib/cmake/raylib/raylib-config-version.cmake
+/usr/local/lib/cmake/raylib/raylib-config.cmake
